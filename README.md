@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manddddd" alt="manddddd" /></a> </p>
 
-- 📄 Keep in mind that most of my Projects are currently private and maintained on GitLab
+- 📄 Keep in mind that most of my Projects are currently private and maintained on GitLab and Azure DevOps
 - ⚡ Fun fact **I'm also Swedish 🇸🇪**
 
 <h3 align="left">Connect with me:</h3>
